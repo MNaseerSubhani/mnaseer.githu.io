@@ -11,11 +11,7 @@ locale                   : "en-US"
 title                    : "Naseer's Profile"
 title_separator          : "-"
 name                     : &name "M.Naseer Subhani"
-description              : &description "A passionate and innovative Computer Vision Engineer with a strong foundation in electrical engineering and deep learning. With a knack for blending cutting-edge AI with practical embedded systems, I’ve crafted solutions ranging from self-driving technology to industrial automation. My career journey spans optimizing deep learning models for low-power hardware, deploying AI inspection systems in manufacturing, and addressing domain adaptation challenges in semantic segmentation (published in ECCV2020!).
-
-A natural problem-solver and award-winning microcontroller programmer, I excel in bridging the gap between research and real-world applications. Whether it's collaborating on industrial AI projects or leading advancements in computer vision, I thrive on transforming complex challenges into efficient, scalable solutions.
-
-Connect with me to discuss impactful projects or groundbreaking ideas in AI, embedded systems, and beyond!"
+description              : &description ""
 url                      : https://mnaseersubhani.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mnaseersubhani/mnaseersubhani.github.io"
@@ -28,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "M.Naseer Subhani"
   pronouns         : # example: "she/her"  
-  bio              : "An Engineer dedicated to leveraging technology to create a better world through innovation in both industry and research. I specialize in developing scalable, efficient solutions. With a passion for bridging the gap between cutting-edge AI and real-world challenges, my work strives to enhance productivity, sustainability, and progress globally."
+  bio              : ""
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Apex Treasure"
   uri              : # URL
   email            : "im.naseerr@gmail.com" 
 
