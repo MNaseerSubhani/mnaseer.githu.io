@@ -4,7 +4,7 @@ Domain Adaptation in Semantic Segmentation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about domain adaptation in semantic segmentation.'
 date: 2020-02-17
 venue: 'ECCV'
 paperurl: 'https://arxiv.org/pdf/2007.14449'
