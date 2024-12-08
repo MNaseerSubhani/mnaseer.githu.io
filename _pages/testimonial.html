@@ -10,3 +10,82 @@ author_profile: true
 {% for post in site.testimonial reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #5c5c5c;
+        }
+        .testimonial {
+            font-style: italic;
+            font-size: 1.2em;
+            color: #555;
+            margin-top: 20px;
+        }
+        .author {
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
+        .testimonial-image {
+            display: block;
+            margin: 30px auto;
+            width: 80%;
+            max-width: 500px;
+        }
+        .testimonial-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        .testimonial-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>🌟 What Others Say About Me</h2>
+
+    <div class="testimonial">
+        <p>"Muhammad is a talented and innovative engineer, consistently delivering impactful solutions in AI and computer vision."</p>
+        <p class="author">— John Doe, Senior AI Engineer at XYZ Corp</p>
+    </div>
+
+    <img src="https://www.example.com/team-collaboration-image.jpg" alt="Team Collaboration" class="testimonial-image">
+
+    <a href="https://www.example.com/testimonial" class="testimonial-link" target="_blank">Click here to read full testimonial</a>
+</div>
+
+<script>
+    // JavaScript to fetch and display dynamic content can be added here
+    // Example: Fetch testimonials from an API or dynamic content provider
+</script>
+
+</body>
+</html>
