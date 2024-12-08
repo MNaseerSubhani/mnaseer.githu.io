@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,12 +13,11 @@ redirect_from:
 **Location:** Pakistan  
 **Email:** [im.naseerr@gmail.com](mailto:im.naseerr@gmail.com)  
 **Phone:** +92-334-9796-488  
-**Portfolio:** [mnaseer.com](http://mnaseer.com)  
 **GitHub:** [mnaseer](https://github.com/MNaseerSubhani)  
 **LinkedIn:** [mnaseersubhani](https://www.linkedin.com/in/mnaseersubhani/)  
 
 ---
-
+**Download in PDF:** [CV](https://www.linkedin.com/in/mnaseersubhani/)  
 ## Summary
 
 Computer Vision Engineer with expertise in **deep learning**, **embedded systems**, and **industrial AI solutions**. I specialize in developing scalable and efficient solutions, bridging the gap between cutting-edge AI research and real-world challenges. My work focuses on enhancing productivity, sustainability, and global progress.
@@ -41,7 +40,8 @@ Computer Vision Engineer with expertise in **deep learning**, **embedded systems
 **Consultant**  
 *Remote, Pakistan*  
 **June 2022 – Present**  
-- Working with financial data by fusing diverse data points for analysis.
+- Optimized financial data analysis pipelines by integrating diverse datasets."
+
 
 ---
 
@@ -89,21 +89,12 @@ Computer Vision Engineer with expertise in **deep learning**, **embedded systems
 
 ---
 
-## Publications
-
-- **"Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"**  
-  - M. Naseer Subhani, Mohsen Ali  
-  - Published at ECCV 2020  
-  - [Paper Link](https://arxiv.org/pdf/2007.14449)  
-  - [Code Repository](https://github.com/MNaseerSubhani/LSE)  
-
----
 
 ## Skills
 
 - **Programming Languages:** Python, C++, Dart, C#, SQL, JavaScript, Shell, Java  
 - **Technologies:** PyTorch, TensorFlow, Keras, OpenCV, Embedded AI Solutions  
-- **Soft Skills:** Communication, Creativity, Time Management, Problem Solving  
+- **Soft Skills:** Communication, Creativity, Time Management, Efficient debugging of deep learning pipelines, Collaboration with cross-functional teams 
 
 ---
 
