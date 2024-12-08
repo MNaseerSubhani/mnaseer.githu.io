@@ -8,57 +8,108 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Muhammad Naseer Subhani
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Location:** Pakistan  
+**Email:** [im.naseerr@gmail.com](mailto:im.naseerr@gmail.com)  
+**Phone:** +92-334-9796-488  
+**Portfolio:** [mnaseer.com](http://mnaseer.com)  
+**GitHub:** [mnaseer](https://github.com/MNaseerSubhani)  
+**LinkedIn:** [mnaseersubhani](https://www.linkedin.com/in/mnaseersubhani/)  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Summary
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Computer Vision Engineer with expertise in **deep learning**, **embedded systems**, and **industrial AI solutions**. I specialize in developing scalable and efficient solutions, bridging the gap between cutting-edge AI research and real-world challenges. My work focuses on enhancing productivity, sustainability, and global progress.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Experience
+
+### Apex Treasure Sdn Bhd  
+**Computer Vision Engineer**  
+*Remote, Pakistan*  
+**Jan 2023 – Present**  
+- Developing classification, object detection, and segmentation models optimized for embedded systems and low-power hardware.  
+- Delivering AI-driven solutions to improve efficiency in industrial projects.  
+- Gaining experience in integrating computer vision solutions into embedded platforms for seamless compatibility.  
+
+---
+
+### Thinkorithm  
+**Consultant**  
+*Remote, Pakistan*  
+**June 2022 – Present**  
+- Working with financial data by fusing diverse data points for analysis.
+
+---
+
+### Nommas  
+**Software Engineer**  
+*Jeddah, KSA*  
+**Sep 2021 – May 2022**  
+- Designed AI vision-based inspection systems for manufacturing industries.  
+- Collaborated with mechanical engineers to bring prototypes to production.  
+- Worked with lightweight devices like Nvidia Jetson Xavier NX and TX2.  
+- Deployed systems for companies such as **Savola Group**, **SaudiCan**, and **Aquat food industries**.  
+
+**Deep Learning Engineer**  
+*Jeddah, KSA*  
+**Aug 2020 – Sep 2021**  
+- Developed and deployed deep learning models for semantic segmentation, object detection, and anomaly detection.  
+- Utilized frameworks including PyTorch, TensorFlow, Keras, and OpenCV.  
+
+---
+
+### Information Technology University  
+**Research Associate**  
+*Lahore, Pakistan*  
+**Jan 2018 – Nov 2019**  
+- Worked on semantic segmentation and domain adaptation challenges.  
+- Deployed **Apollo.auto** on Nvidia Jetson TX2 for autonomous vehicle projects.  
+- Published a paper in ECCV 2020 on domain adaptation in semantic segmentation.
+
+---
+
+## Education
+
+### MS Electrical Engineering  
+**Information Technology University, Lahore, Pakistan**  
+**Sep 2016 – April 2018**  
+- Major: Deep Learning and Embedded Systems  
+- Thesis: "Learning from Self-Generated Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"  
+
+---
+
+### BS Electrical Engineering  
+**University of Lahore, Lahore, Pakistan**  
+**Sep 2012 – May 2016**  
+- Major: Communication and Embedded Systems  
+
+---
+
+## Publications
+
+- **"Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"**  
+  - M. Naseer Subhani, Mohsen Ali  
+  - Published at ECCV 2020  
+  - [Paper Link](https://arxiv.org/pdf/2007.14449)  
+  - [Code Repository](https://github.com/MNaseerSubhani/LSE)  
+
+---
+
+## Skills
+
+- **Programming Languages:** Python, C++, Dart, C#, SQL, JavaScript, Shell, Java  
+- **Technologies:** PyTorch, TensorFlow, Keras, OpenCV, Embedded AI Solutions  
+- **Soft Skills:** Communication, Creativity, Time Management, Problem Solving  
+
+---
+
+## Honors
+
+- Awarded $10,000 Azure credits by Microsoft.  
+- Silver Medal in Microcontroller Programming (2016 UCP Olympics).  
+- 1st Position in Microcontroller Programming (2016 UOL ECL).  
+- Gold Medal in Microcontroller Programming (2015 UCP Olympics).  
