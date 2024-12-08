@@ -17,7 +17,7 @@ redirect_from:
 **LinkedIn:** [mnaseersubhani](https://www.linkedin.com/in/mnaseersubhani/)  
 
 ---
-**Download in PDF:** [CV](https://www.linkedin.com/in/mnaseersubhani/)  
+**Download in PDF:** [CV](https://mnaseersubhani.github.io/files/cv.pdf)  
 ## Summary
 
 Computer Vision Engineer with expertise in **deep learning**, **embedded systems**, and **industrial AI solutions**. I specialize in developing scalable and efficient solutions, bridging the gap between cutting-edge AI research and real-world challenges. My work focuses on enhancing productivity, sustainability, and global progress.
