@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 4"
+title: "Learning from Scale-Invariant Examples for
+Domain Adaptation in Semantic Segmentation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
