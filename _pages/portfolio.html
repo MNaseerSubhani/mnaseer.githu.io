@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 
 {% for post in site.portfolio %}
@@ -14,4 +14,70 @@ author_profile: true
 
 
 
+ -->
 
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Showcase</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .title {
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .description {
+            font-size: 1em;
+            color: #666;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        .video-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        iframe {
+            border: none;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Project Showcase: Amazing Video</h1>
+        <p class="description">
+            Welcome to my project showcase! Below is a brief introduction to my work, illustrated with an engaging video. This project explores the intersection of technology and creativity, leveraging the power of visual media to deliver impactful storytelling. Watch the video to dive deeper into the project.
+        </p>
+        <div class="video-container">
+            <iframe 
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/VIDEO_ID" 
+                title="YouTube video player" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</body>
+</html>
