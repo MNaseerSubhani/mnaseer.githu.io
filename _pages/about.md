@@ -12,7 +12,7 @@ redirect_from:
 - 🔬 My focus is on developing scalable, efficient AI solutions to bridge the gap between cutting-edge research and real-world challenges.
 - 🌱 I am passionate about enhancing productivity, sustainability, and progress through technology.
 
-## Selected Experience
+## Experience
 
 ### Open Source Contributions
 - Contributed to various computer vision and AI projects, focusing on integrating solutions into **embedded systems** and **low-power hardware**.
