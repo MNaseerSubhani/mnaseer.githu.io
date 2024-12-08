@@ -30,17 +30,3 @@ redirect_from:
 ### Research and Development
 - As a **Research Associate** at ITU, deployed **Apollo.auto** on Nvidia Jetson TX2 for self-driving systems.
 - Investigated domain adaptation challenges in computer vision, publishing a paper on innovative methodologies.
-
-## Education
-- 📚 **MS in Electrical Engineering**  
-  Major: Deep Learning and Embedded Systems (ITU, Lahore)  
-  Thesis: Learning from Self-Generated Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation  
-
-- 🎓 **BS in Electrical Engineering**  
-  Major: Communication and Embedded Systems (University of Lahore)
-
-## Skills
-- **Programming Languages:** Python, C++, Dart, C#, SQL, JavaScript, Shell, Java  
-- **Frameworks and Tools:** PyTorch, TensorFlow, Keras, OpenCV, Embedded AI Solutions  
-- **Soft Skills:** Communication, Creativity, Time Management, Problem Solving  
-
