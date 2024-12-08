@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Hello there, I'm Naseer!
+# Hello, I'm Naseer!
 
 - 🎓 I'm a Computer Vision Engineer with expertise in deep learning, embedded systems, and industrial AI solutions.
 - 🔬 My focus is on developing scalable, efficient AI solutions to bridge the gap between cutting-edge research and real-world challenges.
