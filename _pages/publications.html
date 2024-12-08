@@ -21,7 +21,7 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        <a href=category[1].title  target="_blank">[Code]</a>
+        <a href=category[1].code  target="_blank">[Code]</a>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
