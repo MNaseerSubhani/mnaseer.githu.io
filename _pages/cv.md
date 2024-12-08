@@ -35,7 +35,7 @@ redirect_from:
 
 ### Thinkorithm  
 **Consultant**  
-*Remote, Pakistan*  
+*Remote (Part Time), Pakistan*  
 **June 2022 – Present**  
 - Optimized financial data analysis pipelines by integrating diverse datasets."
 
