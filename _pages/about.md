@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 # Hello, I'm Naseer!
-
-![Cover Photo](https://mnaseersubhani.github.io/files/cover.jpeg)
+<div style="border: 5px solid #007BFF; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://mnaseersubhani.github.io/files/cover.jpeg" alt="Cover Photo" style="width: 100%; display: block;">
+</div>
+<!-- ![Cover Photo]() -->
 
 - 🎓 I'm a Computer Vision Engineer with expertise in deep learning, embedded systems, and industrial AI solutions.
 - 🔬 My focus is on developing scalable, efficient AI solutions to bridge the gap between cutting-edge research and real-world challenges.
