@@ -12,7 +12,7 @@ title                    : "Naseer's Profile"
 title_separator          : "-"
 name                     : &name "M.Naseer Subhani"
 description              : &description ""
-url                      : https://mnaseersubhani.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mnaseer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mnaseersubhani/mnaseer.github.io"
 
